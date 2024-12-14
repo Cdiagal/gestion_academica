@@ -1,5 +1,13 @@
 package gestion_academica;
 
+/**
+ * Clase Persona.
+ * 
+ * Métodos: saludar().
+ * @author cdiagal
+ * @version 1.0.0
+ */
+
 public abstract class Persona {
     private String id;
     private String nombre;
